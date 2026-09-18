@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "python3 bot.py"
+  },
+  "description": "Railway start-script compatibility for the Python Telegram bot"
+}
