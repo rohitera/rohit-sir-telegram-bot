@@ -1,4 +1,4 @@
-# REBEL Telegram Bot
+# ROHIT Telegram Bot
 
 Railway-ready Python deployment for the existing Telegram bot. Existing commands, menus, callbacks, and media behavior are kept intact.
 
